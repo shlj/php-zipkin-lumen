@@ -5,8 +5,8 @@ class Commit
     public $init = [
         'start_time' => [
             'year'  => 2017,
-            'month' => 9,
-            'day'   => 29,
+            'month' => 1,
+            'day'   => 1,
         ],
 
         'end_time' => [
@@ -15,11 +15,11 @@ class Commit
             'day'   => 15,
         ],
 
-        'repository_url' => false,
+        'repository_url' => 'git@github.com:shlj/php-zipkin-lumen.git',
 
-        'max_count' => 10,
+        'max_count' => 20,
 
-        'min_count' => 1,
+        'min_count' => 2,
     ];
 
     public function run()
