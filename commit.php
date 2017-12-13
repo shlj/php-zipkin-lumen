@@ -1,8 +1,5 @@
 <?php
 
-/**
- *
- */
 class Commit
 {
     public $init = [
