@@ -1,7 +1,7 @@
 <p align="center"><img width="800" src="http://ozd26c105.bkt.clouddn.com/cover.png?imageView2/0/q/75|imageslim"></p>
 
 <p align="center">A PHP language based script that automates the submission of Github Commit.</p>
-<p align="center">This script is only available on **Osx** and **Linux** systems.</p>
+<p align="center">This script is only available on Osx and Linux systems.</p>
 
 
 ## Use
